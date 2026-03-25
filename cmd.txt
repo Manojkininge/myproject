@@ -1,0 +1,80 @@
+    1  git --version
+    2  sudo yum install git
+    3  git --version
+    4  git config --global user.name Manojkininge
+    5  git congig --global user.email "kiningemanoj@gmail.com"
+    6  git config --global user.email "kiningemanoj@gmail.com"
+    7  git config --list
+    8  mkdir project
+    9  cd project/
+   10  git init
+   11  ls -la
+   12  touch hello.py
+   13  ls
+   14  git status
+   15  ls
+   16  cd project
+   17  git init
+   18  ls -la
+   19  git add hello.py
+   20  git commit -m "1st commit"
+   21  git logs
+   22  git log
+   23  git branch 
+   24  git log --oneline
+   25  ls
+   26  cd project/
+   27  git clone [200~
+   28  ~cd ../.
+   29  cd ../ .
+   30  cd ..
+   31  ls
+   32  git clone [200~
+   33  git clone git@github.com:Manojkininge/myproject.git
+   34  ls -la
+   35  ls
+   36  git clone https://github.com/Manojkininge/myproject.git
+   37  ls
+   38  cd myproject/
+   39  git push origin master
+   40  clear
+   41  history>>cmd.txt
+   42  cat cmd.txt 
+   43  pwd
+   44  ls
+   45  cd myproject/
+   46  ls
+   47  cd ../.
+   48  ls
+   49  exit
+   50  cd myproject/
+   51  ls
+   52  rm -r .
+   53  rm -rf .
+   54  rm -rf cmd.txt hellowrd.py firs.class firs.java 
+   55  ls
+   56  rm -rf LICENSE README.md 
+   57  ls
+   58  git pull 
+   59  ls
+   60  git branch
+   61  git pull origin master
+   62  ls
+   63  cd ../ .
+   64  cd ..
+   65  ls
+   66  rm -rf myproject/
+   67  git branch 
+   68  git init
+   69  git pull origin master
+   70  git branch
+   71  git pull origin master
+   72  clear
+   73  git clone [200~
+   74  git clone https://github.com/Manojkininge/myproject.git
+   75  ls
+   76  cd myproject/
+   77  ls
+   78  git pull origin master
+   79  clear
+   80  history>>cmd.txt
